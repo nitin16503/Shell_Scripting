@@ -1,0 +1,6 @@
+#!/bin/bash
+
+age=10
+name="nitin"
+echo "my name is $name and age is $age"
+
