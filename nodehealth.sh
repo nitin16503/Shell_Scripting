@@ -4,7 +4,7 @@
 #Author : Nitin
 #Date : 17/2/2024
 #
-#this scritpt output the node health 
+#this script  output the node health 
 #
 #Version : v1
 ######################################
